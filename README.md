@@ -1,4 +1,4 @@
-# ☕ Sava Café
+# ☕ ChillTown Café
 
 Sava Café is a cozy **casual restaurant management simulation game** built with **Unity 3D**.  
 You play as a new café owner in a small town, cooking food, serving customers, managing workers, and expanding your café into a successful business.
